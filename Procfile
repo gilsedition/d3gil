@@ -1,1 +1,1 @@
-web: python showchecks.py
+web:python showchecks.py
